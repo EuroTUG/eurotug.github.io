@@ -1,4 +1,5 @@
 ---
+label: home
 ---
 
 The _European Trilinos User Group (EuroTUG)_ meeting series offers a platform for Europe-based users and developers
