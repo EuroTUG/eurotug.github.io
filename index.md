@@ -1,8 +1,7 @@
 ---
 label: home
+title: EuroTUG 2022 in Munich
 ---
-
-# EuroTUG 2022 in Munich
 
 The 2022 EuroTUG meeting will take place in Munich, Germany, under the auspices of
 
