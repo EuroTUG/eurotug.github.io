@@ -37,3 +37,13 @@ The EuroTUG aims to offer a forum for all levels of proficiency and experience i
 - active Trilinos developers to discuss current developments, get in personal contact with de- velopers from SNL, and share news about their recent developments with the Trilinos com-munity.
 
 All levels of academic education are welcome. To account for different levels of software proficiency in general and for Trilinos experience in particular, the program consists of different elements tailored to a diverse audience.
+
+## Meeting Program
+
+The meeting program will encompass
+
+- talks by active Trilinos developers to spread the word about recent developments and trens
+- presentations by active Trilinos users to showcase various applciation scenarios of Trilinos
+- advanced tutorial session to educate all participants in the use of Trilinos
+
+A detailed schedule will be announced in time.
