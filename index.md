@@ -14,3 +14,4 @@ While the annual Trilinos User Group meeting hosted by Sandia National Laborator
 serves as the main community event for Trilinos users,
 the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
 who are interested in the Trilinos project.
+
