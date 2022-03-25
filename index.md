@@ -31,7 +31,7 @@ serves as the main community event for Trilinos users,
 the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
 who are interested in the Trilinos project.
 
-The EuroTUG 2022 meeting will take place in Munich, Germany, under the auspices of
+The EuroTUG 2022 meeting will be held in Munich, Germany, under the auspices of
 
 - [dtec.bw](https://dtecbw.de), in particular its project [hpc.bw: competence platform for software efficiency and supercomputing](https://dtecbw.de/home/forschung/hsu/projekt-hpcbw/projekt-hpcbw).
 
