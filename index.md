@@ -50,5 +50,5 @@ A detailed schedule will be announced in time.
 
 The EuroTUG 2022 meeting will be jointly organized by
 
-- [Dr. Matthias Mayr](mayrmt.github.io) (University of the Bundeswehr Munich)
-- [Dr. Alexander Heinlein](searhein.github.io) (TU Delft).
+- [Dr. Matthias Mayr](https://mayrmt.github.io) (University of the Bundeswehr Munich)
+- [Dr. Alexander Heinlein](https://searhein.github.io) (TU Delft).
