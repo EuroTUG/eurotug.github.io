@@ -33,7 +33,7 @@ who are interested in the Trilinos project.
 
 The 2022 EuroTUG meeting will take place in Munich, Germany, under the auspices of
 
-- [dtec.bw](www.dtecbw.de), in particular its project [hpc.bw: competence platform for software efficiency and supercomputing](https://dtecbw.de/home/forschung/hsu/projekt-hpcbw/projekt-hpcbw).
+- [dtec.bw](https://dtecbw.de), in particular its project [hpc.bw: competence platform for software efficiency and supercomputing](https://dtecbw.de/home/forschung/hsu/projekt-hpcbw/projekt-hpcbw).
 
 
 ## Scientific programme
