@@ -18,6 +18,14 @@ layout: home
 
 ## About the meeting
 
+---
+**UPDATE**
+
+Due to current evolution of the SARS‑CoV‑2 pandemic in Germany,
+we have decided to hold the EuroTUG 2022 as a _purely virtual_ meeting.
+
+---
+
 The _European Trilinos User Group (EuroTUG)_ meeting series offers a platform for Europe-based users and developers
 of the [Trilinos Project](https://trilinos.github.io) to
 
@@ -31,7 +39,7 @@ serves as the main community event for Trilinos users,
 the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
 who are interested in the Trilinos project.
 
-The EuroTUG 2022 meeting will be held in Munich, Germany, under the auspices of
+The EuroTUG 2022 meeting will be held as a virtual meeting under the auspices of
 
 - [dtec.bw](https://dtecbw.de), in particular its project [hpc.bw: competence platform for software efficiency and supercomputing](https://dtecbw.de/home/forschung/hsu/projekt-hpcbw/projekt-hpcbw).
 
