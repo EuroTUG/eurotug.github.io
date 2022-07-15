@@ -35,6 +35,13 @@ The EuroTUG 2022 meeting will be held in Munich, Germany, under the auspices of
 
 - [dtec.bw](https://dtecbw.de), in particular its project [hpc.bw: competence platform for software efficiency and supercomputing](https://dtecbw.de/home/forschung/hsu/projekt-hpcbw/projekt-hpcbw).
 
+## Registration
+
+In order to participate in the EuroTUG 2022 Meeting, please fill the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)  prior to August 20th, 2022. Registration is required for speakers as well as attendees without a contribution.
+
+The registration is free of charge.
+
+If you have any questions or trouble with the registration, feel free to contact as via email at [eurotug2022@unibw.de](mailto:eurotug2022@unibw.de).
 
 ## Scientific programme
 
