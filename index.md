@@ -11,7 +11,7 @@ layout: home
 <div class="container">
   <img class="cropped-image none-image" src="https://images.unsplash.com/photo-1599982890963-3aabd60064d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80" alt="image tooltip here"/>
   <div class="text-block">
-    <h3>EuroTUG 2022</h3>
+    <h3>EuroTUG 2022 <span style="color:red;float:right">Virtual Meeting</span></h3>
     <p>12–14 September 2022, Munich, Germany</p>
   </div>
 </div>
