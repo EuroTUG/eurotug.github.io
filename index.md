@@ -55,11 +55,54 @@ If you have any questions or trouble with the registration, feel free to contact
 
 The meeting program will encompass
 
-- talks by active Trilinos developers to spread the word about recent developments and trends
-- presentations by active Trilinos users to showcase various application scenarios of Trilinos
-- advanced tutorial session to educate all participants in the use of Trilinos
+- an introduction and first steps in Trilinos,
+- talks by active Trilinos developers to spread the word about recent developments and trends,
+- presentations by active Trilinos users to showcase various application scenarios of Trilinos,
+- group discussions on relevant topics.
 
-A detailed schedule will be announced in time.
+Here's the tentative schedule:
+
+**Monday, 12. September 2022**
+
+> This day will focus on beginner level and will introduce new users to Trilinos.
+
+| Time | Topic | Speaker |
+| ----------- | ----------- | ----------- |
+| 14:00 | Overview of Trilinos | tbd |
+| 14:30 | TriBITS: Trilinos build system | tbd |
+| 15:00 | Hands-on: configure and build Trilinos | tbd |
+| 16:00 | Break | |
+| 16:15 | Using Trilinos in application codes | tbd |
+| 16:45 | Hands-on: minimal example to include and use Trilinos | tbd |
+| 17:45 | Wrap-up | tbd |
+
+**Tuesday, 13. September 2022**
+
+| Time | Topic | Speaker |
+| ----------- | ----------- | ----------- |
+| 14:00 | User-contributed talk | tbd |
+| 14:30 | User-contributed talk | tbd |
+| 15:00 | User-contributed talk | tbd |
+| 15:30 | Break | |
+| 15:45 | User-contributed talk | tbd |
+| 16:15 | Developer talk | Someone from SNL |
+| 17:00 | Roundtable discussion | all participants |
+| 17:30 | Developer talk | Someone from SNL |
+| 18:15 | Wrap-up | tbd |
+
+**Wednesday, 14. September 2022**
+
+| Time | Topic | Speaker |
+| ----------- | ----------- | ----------- |
+| 14:00 | User-contributed talk | tbd |
+| 14:30 | User-contributed talk | tbd |
+| 15:00 | User-contributed talk | tbd |
+| 15:30 | Break | |
+| 15:45 | User-contributed talk | tbd |
+| 16:15 | Developer talk | Someone from SNL |
+| 17:00 | Roundtable discussion | all participants |
+| 17:30 | Developer talk | Someone from SNL |
+| 18:15 | Wrap-up | tbd |
 
 ## Organizing committee
 
