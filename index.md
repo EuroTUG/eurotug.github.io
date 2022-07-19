@@ -84,9 +84,9 @@ Here's the tentative schedule:
 | 15:00 | User-contributed talk | tbd |
 | 15:30 | Break | |
 | 15:45 | User-contributed talk | tbd |
-| 16:15 | Developer talk | Someone from SNL |
+| 16:15 | Data Services | Someone from SNL |
 | 17:00 | Roundtable discussion | all participants |
-| 17:30 | Developer talk | Someone from SNL |
+| 17:30 | Discretizations | Someone from SNL |
 | 18:15 | Wrap-up | tbd |
 
 **Wednesday, 14. September 2022**
@@ -98,9 +98,9 @@ Here's the tentative schedule:
 | 15:00 | User-contributed talk | tbd |
 | 15:30 | Break | |
 | 15:45 | User-contributed talk | tbd |
-| 16:15 | Developer talk | Someone from SNL |
+| 16:15 | Linear Solvers | Someone from SNL |
 | 17:00 | Roundtable discussion | all participants |
-| 17:30 | Developer talk | Someone from SNL |
+| 17:30 | Nonlinear Solvers | Someone from SNL |
 | 18:15 | Wrap-up | tbd |
 
 ## Organizing committee
