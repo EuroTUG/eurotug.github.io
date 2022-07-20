@@ -12,7 +12,7 @@ layout: home
   <img class="cropped-image none-image" src="https://images.unsplash.com/photo-1599982890963-3aabd60064d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80" alt="image tooltip here"/>
   <div class="text-block">
     <h3>EuroTUG 2022 <span style="color:red;float:right">Virtual Meeting</span></h3>
-    <p>12–14 September 2022, Munich, Germany</p>
+    <p>12–14 September 2022, Munich, Germany <span style="float:right"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link">Link to registration</a></span></p>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ layout: home
 
 **UPDATE:** Due to current evolution of the SARS‑CoV‑2 pandemic in Germany,
 we have decided to hold the EuroTUG 2022 as a _purely virtual_ meeting.
-A link to the virtual meeting will be provided to registered participants prior to the meeting.
+A link to the virtual meeting will be provided to registered participants prior to the meeting. [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)
 
 ---
 
