@@ -68,9 +68,9 @@ Here's the tentative schedule:
 
 | Time | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 14:00 | Overview of Trilinos | tbd |
-| 14:30 | TriBITS: Trilinos build system | tbd |
-| 15:00 | Hands-on: configure and build Trilinos | tbd |
+| 14:00 | Introduction to Trilinos | tbd |
+| 14:30 | How to install Trilinos? | tbd |
+| 15:00 | Hands-on: configure, build and install Trilinos | tbd |
 | 16:00 | Break | |
 | 16:15 | Using Trilinos in application codes | tbd |
 | 16:45 | Hands-on: minimal example to include and use Trilinos | tbd |
