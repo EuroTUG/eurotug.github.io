@@ -86,8 +86,10 @@ Here's the tentative schedule:
 | 15:45 | User-contributed talk | tbd |
 | 16:15 | Data Services | Someone from SNL |
 | 17:00 | Roundtable discussion | all participants |
-| 17:30 | Discretizations | Someone from SNL |
-| 18:15 | Wrap-up | tbd |
+| 17:30 | Break | |
+| 17:45 | Discretizations | Someone from SNL |
+| 18:30 | Emerging Trends in HPC Sofware Systems | Mike A. Heroux, SNL |
+| 19:15 | Wrap-up | tbd |
 
 **Wednesday, 14. September 2022**
 
@@ -100,8 +102,10 @@ Here's the tentative schedule:
 | 15:45 | User-contributed talk | tbd |
 | 16:15 | Linear Solvers | Someone from SNL |
 | 17:00 | Roundtable discussion | all participants |
-| 17:30 | Nonlinear Solvers | Someone from SNL |
-| 18:15 | Wrap-up | tbd |
+| 17:30 | Break | |
+| 17:45 | Nonlinear Solvers | Someone from SNL |
+| 18:30 | The Kokkos Ecosystem | Someone from SNL |
+| 19:15 | Wrap-up | tbd |
 
 ## Organizing committee
 
