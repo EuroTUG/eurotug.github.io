@@ -68,13 +68,13 @@ Here's the tentative schedule:
 
 | Time | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 14:00 | Introduction to Trilinos | tbd |
-| 14:30 | How to install Trilinos? | tbd |
-| 15:00 | Hands-on: configure, build and install Trilinos | tbd |
+| 14:00 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
+| 14:30 | How to install Trilinos? | Alexander Heinlein / Matthias Mayr |
+| 15:00 | Hands-on: configure, build and install Trilinos | all participants |
 | 16:00 | Break | |
-| 16:15 | Using Trilinos in application codes | tbd |
-| 16:45 | Hands-on: minimal example to include and use Trilinos | tbd |
-| 17:45 | Wrap-up | tbd |
+| 16:15 | Using Trilinos in application codes | Alexander Heinlein / Matthias Mayr |
+| 16:45 | Hands-on: minimal example to include and use Trilinos | all participants |
+| 17:45 | Wrap-up | Matthias Mayr |
 
 **Tuesday, 13. September 2022**
 
@@ -90,7 +90,7 @@ Here's the tentative schedule:
 | 17:30 | Break | |
 | 17:45 | Discretizations | Someone from SNL |
 | 18:30 | Emerging Trends in HPC Sofware Systems | Mike A. Heroux, SNL |
-| 19:15 | Wrap-up | tbd |
+| 19:15 | Wrap-up | Alexander Heinlein |
 
 **Wednesday, 14. September 2022**
 
@@ -106,7 +106,7 @@ Here's the tentative schedule:
 | 17:30 | Break | |
 | 17:45 | Nonlinear Solvers | Someone from SNL |
 | 18:30 | The Kokkos Ecosystem | Someone from SNL |
-| 19:15 | Wrap-up | tbd |
+| 19:15 | Wrap-up | Alexander Heinlein / Matthias Mayr |
 
 ## Organizing committee
 
