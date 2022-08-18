@@ -89,7 +89,7 @@ Here's the tentative schedule:
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
 | 17:45 | Discretizations | Someone from SNL |
-| 18:30 | Emerging Trends in HPC Sofware Systems | Mike A. Heroux, SNL |
+| 18:30 | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
 | 19:15 | Wrap-up | Alexander Heinlein |
 
 **Wednesday, 14. September 2022**
