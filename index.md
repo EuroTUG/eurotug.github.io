@@ -87,7 +87,7 @@ Here's the tentative schedule:
 | 15:00 | User-contributed talk | tbd |
 | 15:30 | Break | |
 | 15:45 | User-contributed talk | tbd |
-| 16:15 | Data Services | Christopher M. Siefert, SNL |
+| 16:15 | Data Services: What's New in Trilinos Data Services? | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
 | 17:45 | Discretizations | Someone from SNL |
