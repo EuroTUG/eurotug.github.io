@@ -62,11 +62,13 @@ The meeting program will encompass
 
 Here's the tentative schedule:
 
+> All times are given for Central European Summer Time (CEST).
+
 **Monday, 12. September 2022**
 
 > This day will focus on beginner level and will introduce new users to Trilinos.
 
-| Time | Topic | Speaker |
+| Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 14:00 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
 | 14:30 | How to install Trilinos? | Alexander Heinlein / Matthias Mayr |
@@ -78,7 +80,7 @@ Here's the tentative schedule:
 
 **Tuesday, 13. September 2022**
 
-| Time | Topic | Speaker |
+| Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 14:00 | User-contributed talk | tbd |
 | 14:30 | User-contributed talk | tbd |
@@ -94,7 +96,7 @@ Here's the tentative schedule:
 
 **Wednesday, 14. September 2022**
 
-| Time | Topic | Speaker |
+| Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 14:00 | User-contributed talk | tbd |
 | 14:30 | User-contributed talk | tbd |
