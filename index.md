@@ -45,7 +45,7 @@ The EuroTUG 2022 meeting will be held as a virtual meeting under the auspices of
 
 ## Registration
 
-In order to participate in the EuroTUG 2022 Meeting, please fill the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)  prior to August 20th, 2022. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG 2022 Meeting, please fill the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)  prior to September 4, 2022. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is free of charge.
 
