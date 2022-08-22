@@ -86,7 +86,7 @@ Here's the tentative schedule:
 | 14:30 | User-contributed talk | tbd |
 | 15:00 | User-contributed talk | tbd |
 | 15:30 | Break | |
-| 15:45 | User-contributed talk | tbd |
+| 15:45 | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maartens Arnst, U Liege |
 | 16:15 | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
@@ -102,7 +102,7 @@ Here's the tentative schedule:
 | 14:30 | User-contributed talk | tbd |
 | 15:00 | User-contributed talk | tbd |
 | 15:30 | Break | |
-| 15:45 | User-contributed talk | tbd |
+| 15:45 | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
 | 16:15 | Linear Solvers | Someone from SNL |
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
