@@ -106,7 +106,7 @@ Here's the tentative schedule:
 | 15:00 | Hybrid Parallelization for a Particle Code | Mikhail Zverlov, TU Munich |
 | 15:30 | Break | |
 | 15:45 | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
-| 16:15 | Linear Solvers | Someone from SNL |
+| 16:15 | Linear Solvers | Graham Harper / Jenniger Loe, SNL |
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
 | 17:45 | Nonlinear Solvers | Someone from SNL |
