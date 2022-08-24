@@ -109,7 +109,8 @@ Here's the tentative schedule:
 | 16:15 | Developer talk | Linear Solvers | Graham Harper / Jenniger Loe, SNL |
 | 17:00 | Roundtable discussion | tbd | all participants |
 | 17:30 | Break | | |
-| 17:45 | Developer talk | Nonlinear Solvers | Aurya Javeed / Eric Phipps, SNL |
+| 17:45 | Developer talk | An Introduction to the Rapid Optimization Library | Aurya Javeed, SNL |
+| 18:05 | Developer talk | Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado | Eric Phipps, SNL |
 | 18:30 | Developer talk | The Kokkos Ecosystem | Someone from SNL |
 | 19:15 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
 
