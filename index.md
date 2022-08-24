@@ -109,7 +109,7 @@ Here's the tentative schedule:
 | 16:15 | Linear Solvers | Graham Harper / Jenniger Loe, SNL |
 | 17:00 | Roundtable discussion | all participants |
 | 17:30 | Break | |
-| 17:45 | Nonlinear Solvers | Someone from SNL |
+| 17:45 | Nonlinear Solvers | Aurya Javeed / Eric Phipps, SNL |
 | 18:30 | The Kokkos Ecosystem | Someone from SNL |
 | 19:15 | Wrap-up | Alexander Heinlein / Matthias Mayr |
 
