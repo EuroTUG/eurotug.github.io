@@ -83,37 +83,35 @@ Here's the tentative schedule:
 
 **Tuesday, 13. September 2022**
 
-| Time (CEST) | Topic | Speaker |
-| ----------- | ----------- | ----------- |
-| 14:00 | User-contributed talk | tbd |
-| 14:30 | User-contributed talk | tbd |
-| 15:00 | On substitution of commercial FE codes with an in-house solution for
-real-world problems: A short review on the competition between
-ease-of-use and speed | Georg Hammerl, Hereon |
-| 15:30 | Break | |
-| 15:45 | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maartens Arnst, U Liege |
-| 16:15 | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
-| 17:00 | Roundtable discussion | all participants |
+| Time (CEST) | Type | Topic | Speaker |
+| ----------- | ----------- | ----------- | ----------- |
+| 14:00 | User-contributed talk | tbd | tbd |
+| 14:30 | User-contributed talk | tbd | tbd |
+| 15:00 | User-contributed talk | On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed | Georg Hammerl, Hereon |
+| 15:30 | Break | | |
+| 15:45 | User-contributed talk | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maartens Arnst, U Liege |
+| 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
+| 17:00 | Roundtable discussion | tbd | all participants |
 | 17:30 | Break | |
-| 17:45 | Discretizations | Someone from SNL |
-| 18:30 | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
+| 17:45 | Developer talk | Discretizations | Someone from SNL |
+| 18:30 | Keynote | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
 | 19:15 | Wrap-up | Alexander Heinlein |
 
 **Wednesday, 14. September 2022**
 
-| Time (CEST) | Topic | Speaker |
-| ----------- | ----------- | ----------- |
-| 14:00 | User-contributed talk | tbd |
-| 14:30 | User-contributed talk | tbd |
-| 15:00 | Hybrid Parallelization for a Particle Code | Mikhail Zverlov, TU Munich |
-| 15:30 | Break | |
-| 15:45 | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
-| 16:15 | Linear Solvers | Graham Harper / Jenniger Loe, SNL |
-| 17:00 | Roundtable discussion | all participants |
-| 17:30 | Break | |
-| 17:45 | Nonlinear Solvers | Aurya Javeed / Eric Phipps, SNL |
-| 18:30 | The Kokkos Ecosystem | Someone from SNL |
-| 19:15 | Wrap-up | Alexander Heinlein / Matthias Mayr |
+| Time (CEST) | Type | Topic | Speaker |
+| ----------- | ----------- | ----------- | ----------- |
+| 14:00 | User-contributed talk | tbd | tbd |
+| 14:30 | User-contributed talk | tbd | tbd |
+| 15:00 | User-contributed talk | Hybrid Parallelization for a Particle Code | Mikhail Zverlov, TU Munich |
+| 15:30 | Break | | |
+| 15:45 | User-contributed talk | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
+| 16:15 | Developer talk | Linear Solvers | Graham Harper / Jenniger Loe, SNL |
+| 17:00 | Roundtable discussion | tbd | all participants |
+| 17:30 | Break | | |
+| 17:45 | Developer talk | Nonlinear Solvers | Aurya Javeed / Eric Phipps, SNL |
+| 18:30 | Developer talk | The Kokkos Ecosystem | Someone from SNL |
+| 19:15 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
 
 ## Organizing committee
 
