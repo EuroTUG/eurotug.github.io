@@ -22,7 +22,7 @@ layout: home
 
 **UPDATE:** Due to current evolution of the SARS‑CoV‑2 pandemic in Germany,
 we have decided to hold the EuroTUG 2022 as a _purely virtual_ meeting.
-A link to the virtual meeting will be provided to registered participants prior to the meeting. [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)
+A link to the virtual meeting (via Zoom) will be provided to registered participants prior to the meeting. [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSeu8_LW_ijZU45qvH6boORGQifOXuylcy4J_DU6WSWg7ijvNw/viewform?usp=sf_link)
 
 ---
 
