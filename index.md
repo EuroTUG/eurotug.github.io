@@ -71,13 +71,13 @@ Here's the tentative schedule:
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 14:00 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
-| 14:30 | How to install Trilinos? | Alexander Heinlein / Matthias Mayr |
+| 14:30 | How to install Trilinos? | Matthias Mayr, UniBw M |
 | 15:00 | Hands-on: configure, build and install Trilinos | all participants |
 | 16:00 | Break | |
-| 16:15 | Using Trilinos in application codes - Part I | Alexander Heinlein / Matthias Mayr |
+| 16:15 | Using Trilinos in application codes - Part I | Alexander Heinlein, TU Delft |
 | 16:45 | Hands-on: minimal example to include and use Trilinos - Part I | all participants |
 | 17:45 | Break | |
-| 18:00 | Using Trilinos in application codes - Part II | Alexander Heinlein / Matthias Mayr |
+| 18:00 | Using Trilinos in application codes - Part II | Graham Harper, SNL |
 | 18:30 | Hands-on: minimal example to include and use Trilinos - Part II | all participants |
 | 19:15 | Wrap-up | Matthias Mayr |
 
