@@ -85,7 +85,7 @@ Here's the tentative schedule:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 14:00 | User-contributed talk | tbd | tbd |
+| 14:00 | Welcome & Opening | | Alexander Heinlein / Matthias Mayr |
 | 14:30 | User-contributed talk | Application of Trilinos to nonlinear finite element simulations of deep tunnel advance | Peter Gamnitzer, U Innsbruck |
 | 15:00 | User-contributed talk | On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed | Georg Hammerl, Hereon |
 | 15:30 | Break | | |
