@@ -111,7 +111,7 @@ Here's the tentative schedule:
 | 17:30 | Break | | |
 | 17:45 | Developer talk | An Introduction to the Rapid Optimization Library | Aurya Javeed, SNL |
 | 18:05 | Developer talk | Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado | Eric Phipps, SNL |
-| 18:30 | Developer talk | The Kokkos Ecosystem | Someone from SNL |
+| 18:30 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
 | 19:15 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
 
 ## Organizing committee
