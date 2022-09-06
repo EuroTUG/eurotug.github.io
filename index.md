@@ -93,7 +93,7 @@ Here's the tentative schedule:
 | 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | tbd | all participants |
 | 17:30 | Break | |
-| 18:30 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
+| 17:45 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
 | 18:30 | Keynote | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
 | 19:15 | Wrap-up | Alexander Heinlein |
 
