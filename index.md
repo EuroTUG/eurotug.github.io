@@ -93,7 +93,7 @@ Here's the tentative schedule:
 | 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | tbd | all participants |
 | 17:30 | Break | |
-| 17:45 | Developer talk | Discretizations | Someone from SNL |
+| 18:30 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
 | 18:30 | Keynote | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
 | 19:15 | Wrap-up | Alexander Heinlein |
 
@@ -111,8 +111,7 @@ Here's the tentative schedule:
 | 17:30 | Break | | |
 | 17:45 | Developer talk | An Introduction to the Rapid Optimization Library | Aurya Javeed, SNL |
 | 18:05 | Developer talk | Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado | Eric Phipps, SNL |
-| 18:30 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
-| 19:15 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
+| 18:30 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
 
 ## Organizing committee
 
