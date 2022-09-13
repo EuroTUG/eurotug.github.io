@@ -89,7 +89,7 @@ Here's the tentative schedule:
 | 14:30 | User-contributed talk | Application of Trilinos to nonlinear finite element simulations of deep tunnel advance | Peter Gamnitzer, U Innsbruck |
 | 15:00 | User-contributed talk | On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed | Georg Hammerl, Hereon |
 | 15:30 | Break | | |
-| 15:45 | User-contributed talk | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maartens Arnst, U Liege |
+| 15:45 | User-contributed talk | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maarten Arnst, U Liege |
 | 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | tbd | all participants |
 | 17:30 | Break | |
