@@ -101,7 +101,6 @@ Here's the tentative schedule:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 14:00 | User-contributed talk | tbd | tbd |
 | 14:30 | User-contributed talk | The FROSch framework applied to Chemo-Mechanics | Friederike Röver, TU Freiberg |
 | 15:00 | User-contributed talk | Hybrid Parallelization for a Particle Code | Mikhail Zverlov, TU Munich |
 | 15:30 | Break | | |
