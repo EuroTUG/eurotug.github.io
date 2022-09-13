@@ -101,9 +101,7 @@ Here's the tentative schedule:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 14:30 | User-contributed talk | The FROSch framework applied to Chemo-Mechanics | Friederike Röver, TU Freiberg |
-| 15:00 | User-contributed talk | Hybrid Parallelization for a Particle Code | Mikhail Zverlov, TU Munich |
-| 15:30 | Break | | |
+| 15:15 | User-contributed talk | The FROSch framework applied to Chemo-Mechanics | Friederike Röver, TU Freiberg |
 | 15:45 | User-contributed talk | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
 | 16:15 | Developer talk | Linear Solvers | Graham Harper / Jennifer Loe, SNL |
 | 17:00 | Roundtable discussion | tbd | all participants |
