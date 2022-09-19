@@ -70,14 +70,14 @@ Here's the tentative schedule:
 
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 14:00 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
-| 14:30 | How to install Trilinos? | Matthias Mayr, UniBw M |
+| 14:00 | [Introduction to Trilinos]({{ site.url }}/assets/2022_eurotug_slides/eurotug_tutorial_opening.pdf) | Alexander Heinlein / Matthias Mayr |
+| 14:30 | [How to install Trilinos?]({{ site.url }}/assets/2022_eurotug_slides/eurotug_tutorial_part_1.pdf) | Matthias Mayr, UniBw M |
 | 15:00 | Hands-on: configure, build and install Trilinos | all participants |
 | 16:00 | Break | |
-| 16:15 | Using Trilinos in application codes - Part I | Alexander Heinlein, TU Delft |
+| 16:15 | [Using Trilinos in application codes - Part I]({{ site.url }}/assets/2022_eurotug_slides/eurotug_tutorial_part_2.pdf) | Alexander Heinlein, TU Delft |
 | 16:45 | Hands-on: minimal example to include and use Trilinos - Part I | all participants |
 | 17:45 | Break | |
-| 18:00 | Using Trilinos in application codes - Part II | Graham Harper, SNL |
+| 18:00 | [Using Trilinos in application codes - Part II]({{ site.url }}/assets/2022_eurotug_slides/eurotug_tutorial_part_3.pdf) | Graham Harper, SNL |
 | 18:30 | Hands-on: minimal example to include and use Trilinos - Part II | all participants |
 | 19:15 | Wrap-up | Matthias Mayr |
 
@@ -85,13 +85,13 @@ Here's the tentative schedule:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 14:15 | Welcome & Opening | | Alexander Heinlein / Matthias Mayr |
+| 14:15 | | [Welcome & Opening]({{ site.url }}/assets/2022_eurotug_slides/eurotug_opening.pdf) | Alexander Heinlein / Matthias Mayr |
 | 14:30 | User-contributed talk | Application of Trilinos to nonlinear finite element simulations of deep tunnel advance | Peter Gamnitzer, U Innsbruck |
-| 15:00 | User-contributed talk | On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed | Georg Hammerl, Hereon |
+| 15:00 | User-contributed talk | [On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed]({{ site.url }}/assets/2022_eurotug_slides/2022_hammerl_georg.pdf) | Georg Hammerl, Hereon |
 | 15:30 | Break | | |
-| 15:45 | User-contributed talk | Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ | Maarten Arnst, U Liege |
+| 15:45 | User-contributed talk | [Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ]({{ site.url }}/assets/2022_eurotug_slides/2022_arnst_maarten.pdf) | Maarten Arnst, U Liege |
 | 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
-| 17:00 | Roundtable discussion | tbd | all participants |
+| 17:00 | Roundtable discussion | [Topics]({{ site.url }}/assets/2022_eurotug_slides/eurotug_discussions_part_1.pdf) | all participants |
 | 17:30 | Break | |
 | 17:45 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
 | 18:30 | Keynote | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
@@ -102,13 +102,13 @@ Here's the tentative schedule:
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
 | 15:15 | User-contributed talk | The FROSch framework applied to Chemo-Mechanics | Friederike Röver, TU Freiberg |
-| 15:45 | User-contributed talk | Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction | Max Firmbach, UniBw Munich |
-| 16:15 | Developer talk | Linear Solvers | Graham Harper / Jennifer Loe, SNL |
-| 17:00 | Roundtable discussion | tbd | all participants |
+| 15:45 | User-contributed talk | [Physics based block preconditioning with sparse approximate inverses in MueLu: An application to beam/solid interaction]({{ site.url }}/assets/2022_eurotug_slides/2022_firmbach_max.pdf) | Max Firmbach, UniBw Munich |
+| 16:15 | Developer talk | [Linear Solvers]({{ site.url }}/assets/2022_eurotug_slides/2022_loe_jennifer_harper_graham.pdf) | Graham Harper / Jennifer Loe, SNL |
+| 17:00 | Roundtable discussion | [Topics]({{ site.url }}/assets/2022_eurotug_slides/eurotug_discussions_part_2.pdf) | all participants |
 | 17:30 | Break | | |
 | 17:45 | Developer talk | An Introduction to the Rapid Optimization Library | Aurya Javeed, SNL |
-| 18:05 | Developer talk | Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado | Eric Phipps, SNL |
-| 18:30 | Wrap-up | | Alexander Heinlein / Matthias Mayr |
+| 18:05 | Developer talk | [Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado]({{ site.url }}/assets/2022_eurotug_slides/2022_phipps_eric.pdf) | Eric Phipps, SNL |
+| 18:30 | Closing | [Slides]({{ site.url }}/assets/2022_eurotug_slides/eurotug_closing.pdf)| Alexander Heinlein / Matthias Mayr |
 
 ## Organizing committee
 
