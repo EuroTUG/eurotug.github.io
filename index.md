@@ -106,7 +106,7 @@ Here's the tentative schedule:
 | 16:15 | Developer talk | [Linear Solvers]({{ site.url }}/assets/2022_eurotug_slides/2022_loe_jennifer_harper_graham.pdf) | Graham Harper / Jennifer Loe, SNL |
 | 17:00 | Roundtable discussion | [Topics]({{ site.url }}/assets/2022_eurotug_slides/eurotug_discussions_part_2.pdf) | all participants |
 | 17:30 | Break | | |
-| 17:45 | Developer talk | An Introduction to the Rapid Optimization Library | Aurya Javeed, SNL |
+| 17:45 | Developer talk | [An Introduction to the Rapid Optimization Library]({{ site.url }}/assets/2022_eurotug_slides/2022_javeed_aurya.pdf) | Aurya Javeed, SNL |
 | 18:05 | Developer talk | [Automatic Differentiation of C++ Codes on Emerging Manycore Architectures with Sacado]({{ site.url }}/assets/2022_eurotug_slides/2022_phipps_eric.pdf) | Eric Phipps, SNL |
 | 18:30 | Closing | [Slides]({{ site.url }}/assets/2022_eurotug_slides/eurotug_closing.pdf)| Alexander Heinlein / Matthias Mayr |
 
