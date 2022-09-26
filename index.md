@@ -90,7 +90,7 @@ Here's the tentative schedule:
 | 15:00 | User-contributed talk | [On substitution of commercial FE codes with an in-house solution for real-world problems: A short review on the competition between ease-of-use and speed]({{ site.url }}/assets/2022_eurotug_slides/2022_hammerl_georg.pdf) | Georg Hammerl, Hereon |
 | 15:30 | Break | | |
 | 15:45 | User-contributed talk | [Use of Trilinos and Stokhos ensembles in a multiphysics application code with embedded UQ]({{ site.url }}/assets/2022_eurotug_slides/2022_arnst_maarten.pdf) | Maarten Arnst, U Liege |
-| 16:15 | Developer talk | What's new in Tpetra & Data Services? | Christopher M. Siefert, SNL |
+| 16:15 | Developer talk | [What's new in Tpetra & Data Services?]({{ site.url }}/assets/2022_eurotug_slides/2022_siefert_chris.pdf) | Christopher M. Siefert, SNL |
 | 17:00 | Roundtable discussion | [Topics]({{ site.url }}/assets/2022_eurotug_slides/eurotug_discussions_part_1.pdf) | all participants |
 | 17:30 | Break | |
 | 17:45 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
