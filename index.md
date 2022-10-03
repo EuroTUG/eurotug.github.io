@@ -94,7 +94,7 @@ Here's the tentative schedule:
 | 17:00 | Roundtable discussion | [Topics]({{ site.url }}/assets/2022_eurotug_slides/eurotug_discussions_part_1.pdf) | all participants |
 | 17:30 | Break | |
 | 17:45 | Developer talk | The Kokkos Ecosystem | Luc Berger-Vergiat, SNL |
-| 18:30 | Keynote | Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project | Mike A. Heroux, SNL |
+| 18:30 | Keynote | [Leadership Scientific Software Trends from 2000 – 2040 through the Lens of the Trilinos Project]({{ site.url }}/assets/2022_eurotug_slides/2022_heroux_mike.pdf) | Mike A. Heroux, SNL |
 | 19:15 | Wrap-up | Alexander Heinlein |
 
 **Wednesday, 14. September 2022**
