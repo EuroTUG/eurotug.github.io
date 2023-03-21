@@ -31,7 +31,7 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  right: $spacing-unit * .5;
+  right: $spacing-unit / 2;
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
@@ -128,7 +128,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit * .5;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .feed-subscribe .svg-icon {
@@ -148,7 +148,7 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .5;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .footer-col-1,
@@ -181,16 +181,16 @@
 
   .footer-col {
     width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 ($spacing-unit * .5);
+    padding: 0 ($spacing-unit / 2);
 
     &:first-child {
-      padding-right: $spacing-unit * .5;
+      padding-right: $spacing-unit / 2;
       padding-left: 0;
     }
 
     &:last-child {
       padding-right: 0;
-      padding-left: $spacing-unit * .5;
+      padding-left: $spacing-unit / 2;
     }
   }
 }
@@ -215,24 +215,13 @@
     position: center;
     bottom: 20px;
     right: 20px;
+    background-color: black;
+    color: white;
     padding: 10px;
 
     p, h3 {
       margin-bottom: 2px;
     }
-  }
-
-
-  .munich {
-      background-color: black;
-      color: white;
-  }
-  .delft {
-      background-color: #068bb8;
-      color: white;
-      a {
-          color: #00008B;
-      }
   }
 
   .none-image {
@@ -296,7 +285,8 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
+  h1, h2, h3 { margin-top: $spacing-unit * 2 }
+  h4, h5, h6 { margin-top: $spacing-unit }
 
   h2 {
     @include relative-font-size(1.75);
@@ -336,7 +326,7 @@
     &:last-of-type { margin-right: 0 }
     a {
       display: block;
-      padding: 10px 12px;
+      padding: $spacing-unit / 4;
       border: 1px solid $border-color-01;
       &:hover { border-color: $border-color-02 }
     }
@@ -359,7 +349,7 @@
     }
     div {
       display: block;
-      padding: $spacing-unit * .25;
+      padding: $spacing-unit / 4;
       border: 1px solid transparent;
 
       &.pager-edge {
