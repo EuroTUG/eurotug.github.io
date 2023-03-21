@@ -34,7 +34,7 @@ who are interested in the Trilinos project.
 
 ## Registration
 
-In order to participate in the EuroTUG 2022 Meeting, please fill the [registration form]() prior to May 19, 2023. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG 2023 Meeting, please fill the [registration form]() prior to May 19, 2023. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is *free of charge*.
 
