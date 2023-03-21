@@ -44,7 +44,7 @@ If you have any questions or trouble with the registration, feel free to contact
 
 The meeting program will encompass:
 
-- Introductory tutorials on [Trilinos}(https://trilinos.github.io/) and [Kokkos](https://kokkos.org/)
+- Introductory tutorials on [Trilinos](https://trilinos.github.io/) and [Kokkos](https://kokkos.org/)
 - Talks by active Trilinos developers on recent developments and trends
 - Presentations by active Trilinos users to showcase various application scenarios of Trilinos
 - Group discussions on relevant topics
