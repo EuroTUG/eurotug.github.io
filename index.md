@@ -38,7 +38,7 @@ In order to participate in the EuroTUG 2023 Meeting, please fill the [registrati
 
 The registration is *free of charge*.
 
-If you have any questions or trouble with the registration, feel free to contact as via email at [a.heinlein@tudelft.nl](mailto:a.heinlein@tudelft.nl).
+If you have any questions or trouble with the registration, feel free to contact us via email at [a.heinlein@tudelft.nl](mailto:a.heinlein@tudelft.nl).
 
 ## Scientific programme
 
