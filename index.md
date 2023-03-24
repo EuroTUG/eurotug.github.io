@@ -31,7 +31,7 @@ serves as the main community event for Trilinos users,
 the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
 who are interested in the Trilinos project.
 
-The *European Trilinos User Group Meeting 2023* will take place on the campus of the *Delft University of Technology*.
+The *European Trilinos User Group Meeting 2023* will take place on the campus of the *Delft University of Technology*. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
 
 ## Registration
 
