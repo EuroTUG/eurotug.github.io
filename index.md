@@ -12,7 +12,7 @@ layout: home
   <img class="cropped-image none-image" src="https://d2k0ddhflgrk1i.cloudfront.net/_processed_/6/8/csm_diambanner_9db59bcc4a.jpg" alt="EWI building TU Delft"/>
   <div class="text-block delft">
     <h3>European Trilinos User Group Meeting 2023</h3>
-    <p>Delft University of Technology, June 28-30, 2023<span style="float:right"><a href="">Link to registration</a></span></p>
+    <p>Delft University of Technology, June 28-30, 2023<span style="float:right"><a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">Link to registration</a></span></p>
   </div>
 </div>
 
@@ -31,10 +31,11 @@ serves as the main community event for Trilinos users,
 the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
 who are interested in the Trilinos project.
 
+The *European Trilinos User Group Meeting 2023* will take place on the campus of the *Delft University of Technology*.
 
 ## Registration
 
-In order to participate in the EuroTUG 2023 Meeting, please fill the [registration form]() prior to May 19, 2023. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG Meeting 2023, please **fill the <a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">registration form</a> prior to May 19, 2023**. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is *free of charge*.
 
@@ -43,13 +44,20 @@ If you have any questions or trouble with the registration, feel free to contact
 ## Scientific programme
 
 The meeting program will encompass:
-
 - Introductory tutorials on [Trilinos](https://trilinos.github.io/) and [Kokkos](https://kokkos.org/)
 - Talks by active Trilinos developers on recent developments and trends
 - Presentations by active Trilinos users to showcase various application scenarios of Trilinos
 - Group discussions on relevant topics
 
-A tentative schedule will follow soon.
+### Tentative schedule
+
+| Day | Programme | Planned time frame |
+| ----------- | ----------- | ----------- |
+| **Wednesday, June 28, 2023** | Introductory Trilinos tutorials | 10.30--17.00 |
+| **Thursday, June 29, 2023** | User & developer talks, Kokkos tutorials, discussions <br>  Conference dinner | 09.00--17.00 |
+| **Friday, June 30, 2023** | User & developer talks, Kokkos tutorials, discussions | 09.00--15.00 |
+
+A more detailed schedule will follow soon.
 
 ## Organizing committee
 
