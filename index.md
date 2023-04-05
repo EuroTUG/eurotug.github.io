@@ -33,6 +33,11 @@ who are interested in the Trilinos project.
 
 The *European Trilinos User Group Meeting 2023* will take place on the campus of the *Delft University of Technology*. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
 
+The meeting will be organized under the support of
+
++ the [TU Delft Institute for Computational Science and Engineering (DCSE)](https://www.tudelft.nl/en/tu-delft-institute-for-computational-science-and-engineering) and
++ the [Delft High Performance Computing Centre (DHPC)](https://www.tudelft.nl/dhpc).
+
 ## Registration
 
 In order to participate in the EuroTUG Meeting 2023, please **fill the <a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">registration form</a> prior to May 19, 2023**. Registration is required for speakers as well as attendees without a contribution.
