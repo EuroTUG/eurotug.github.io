@@ -26,12 +26,9 @@ of the [Trilinos Project](https://trilinos.github.io) to
 - interact with the Trilinos leadership and core developers, and
 - form a European network of Trilinos users and developers.
 
-While the annual Trilinos User Group meeting hosted by Sandia National Laboratories (SNL) in Albuquerque, NM,
-serves as the main community event for Trilinos users,
-the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers
-who are interested in the Trilinos project.
+While the annual Trilinos User Group meeting hosted by Sandia National Laboratories (SNL) in Albuquerque, NM, serves as the main community event for Trilinos users, the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers who are interested in the Trilinos project.
 
-The *European Trilinos User Group Meeting 2023* will take place on the campus of the *Delft University of Technology*. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
+The *European Trilinos User Group Meeting 2023* will take place on the campus of the [Delft University of Technology](http://www.tudelft.nl/en/). 
 
 The meeting will be organized under the support of
 
@@ -54,7 +51,7 @@ The meeting program will encompass:
 - Presentations by active Trilinos users to showcase various application scenarios of Trilinos
 - Group discussions on relevant topics
 
-### Tentative schedule
+## Tentative schedule
 
 | Day | Programme | Planned time frame |
 | ----------- | ----------- | ----------- |
@@ -64,9 +61,31 @@ The meeting program will encompass:
 
 A more detailed schedule will follow soon.
 
+## Venue & Accommodation
+
+The *European Trilinos User Group Meeting 2023* will take place at the [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/) of the [Delft University of Technology](http://www.tudelft.nl/en/):
+
+​	TU Delft Aula Conference Centre (Building 20)
+​	Mekelweg 5
+​	2628 CC Delft
+​	The Netherlands 
+
+More information will follow. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
+
+For accommodation, we recommend the following hotels:
+
+| Hotel                          | Email                                                        | Website                                                | Address                              |
+| :----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------ |
+| *Hampshire Hotel Delft Centre* | [reservations@hoteldelftcentre.nl](mailto:reservations@hoteldelftcentre.nl) | [hoteldelftcentre.nl](http://www.hoteldelftcentre.nl/) | Koepoortplaats 3, 2612RR Delft       |
+| *Museum Hotel Best Western*    | [info@museumhotel.nl](mailto:info@museumhotel.nl)            | [museumhotels.nl](http://www.museumhotels.nl/)         | Oude Delft 189, 2611HD Delft         |
+| *Hotel De Plataan*             | [info@hoteldeplataan.nl](mailto:info@hoteldeplataan.nl)      | [hoteldeplataan.nl](http://www.hoteldeplataan.nl/)     | Doelenplein 10, 2611BP Delft         |
+| *The Social Hub Delft*         | [delft@thesocialhub.co](mailto:delft@thesocialhub.co)        | [thesocialhub.co](https://www.thesocialhub.co/delft/)  | Van Leeuwenhoekpark 1, 2611GW Delft  |
+| *Hotel Casa Julia*             | [reservations@casajulia.nl](mailto:reservations@casajulia.nl) | [casajulia.nl](https://www.casajulia.nl/en)            | Maerten Trompstraat 33, 2628RC Delft |
+
+
 ## Organizing committee
 
-The EuroTUG 2023 meeting will be jointly organized by:
+The *European Trilinos User Group Meeting 2023* will be jointly organized by:
 
 - [Dr. Alexander Heinlein](https://searhein.github.io) (TU Delft)
 - [Dr. Matthias Mayr](https://mayrmt.github.io) (University of the Bundeswehr Munich)
