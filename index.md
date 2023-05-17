@@ -37,7 +37,7 @@ The meeting will be organized under the support of
 
 ## Registration
 
-In order to participate in the EuroTUG Meeting 2023, please **fill the <a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">registration form</a> prior to May 19, 2023**. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG Meeting 2023, please **fill the <a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">registration form</a> prior to May 26 (extended deadline), 2023**. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is *free of charge*.
 
@@ -65,10 +65,10 @@ A more detailed schedule will follow soon.
 
 The *European Trilinos User Group Meeting 2023* will take place at the [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/) of the [Delft University of Technology](http://www.tudelft.nl/en/):
 
-​	TU Delft Aula Conference Centre (Building 20)
-​	Mekelweg 5
-​	2628 CC Delft
-​	The Netherlands 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TU Delft Aula Conference Centre (Building 20)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mekelweg 5
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2628 CC Delft
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Netherlands 
 
 More information will follow. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
 
