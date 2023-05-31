@@ -101,6 +101,8 @@ The meeting program will encompass:
 | 14:00 | Roundtable discussion | | all participants |
 | 15:00 | End | | |
 
+Optional add-on: Kokkos experts will be available until 17:30 to answer individual questions.
+
 ## Venue & Accommodation
 
 The *European Trilinos User Group Meeting 2023* will take place at the [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/) of the [Delft University of Technology](http://www.tudelft.nl/en/):
