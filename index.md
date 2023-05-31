@@ -75,7 +75,7 @@ The meeting program will encompass:
 | 09:00 | | Welcome & Opening | Alexander Heinlein / Matthias Mayr |
 | 09:10 | Developer talk | Linear solvers in Trilinos | Luc Berger-Vergiat, SNL |
 | 09:40 | User-contributed talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen, U Köln |
-| 10:10 | User-contributed talk | Development of physics-based multi-level block preconditioners in Trilinos/MueLu | Max Firmbach, UniBw M |
+| 10:10 | User-contributed talk | Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance | Jonas Schulze, MPI Magdeburg |
 | 10:40 | Break | | |
 | 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly | Nate Roberts, SNL |
 | 11:40 | User-contributed talk | Speeding up sparse iterative solvers in Trilinos using RACE | Christie Alappat, FAU Erlangen |
@@ -83,8 +83,8 @@ The meeting program will encompass:
 | 12:40 | Lunch break | | |
 | 14:00 | Tutorial | Kokkos | Damien Lebrun-Grandie, ORNL |
 | 16:00 | Break | | |
-| 16:30 | Developer talk | N.A. | N.A. |
-| 17:00 | Developer talk | N.A. | N.A. |
+| 16:30 | User-contributed talk | N.A. | Nasser Alkmin, U Innsbruck |
+| 17:00 | Developer talk | N.A. | Chris M. Siefert, SNL |
 | 17:30 | End | | |
 | 19:00 | Dinner | | |
 
@@ -95,7 +95,7 @@ The meeting program will encompass:
 | 09:00 | Tutorial | Kokkos | Damien Lebrun-Grandie, ORNL |
 | 10:30 | Break | | |
 | 11:00 | User-contributed talk | How to use TrilinosWrappers in deal.II to parallelize your code | Jan Philipp Thiele, U Hannover |
-| 11:30 | User-contributed talk | Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance | Jonas Schulze, MPI Magdeburg |
+| 11:30 | User-contributed talk | Development of physics-based multi-level block preconditioners in Trilinos/MueLu | Max Firmbach, UniBw M |
 | 12:00 | Lunch break | | |
 | 13:00 | Keynote | N.A. | Kees Vuik, TU Delft |
 | 14:00 | Roundtable discussion | | all participants |
