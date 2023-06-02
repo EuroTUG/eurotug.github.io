@@ -90,9 +90,9 @@ The meeting program will encompass:
 
 The dinner will take place at:
 
-Eetcafé De Verbeelding
-Verwersdijk 128
-2611 NL Delft
+Eetcafé De Verbeelding <br>
+Verwersdijk 128 <br>
+2611 NL Delft <br>
 [https://www.eetcafedeverbeelding.nl](https://www.eetcafedeverbeelding.nl)
 
 
