@@ -88,6 +88,14 @@ The meeting program will encompass:
 | 17:30 | End | | |
 | 19:00 | Dinner | | |
 
+The dinner will take place at:
+
+Eetcafé De Verbeelding
+Verwersdijk 128
+2611 NL Delft
+[https://www.eetcafedeverbeelding.nl](https://www.eetcafedeverbeelding.nl)
+
+
 **Friday, 30. June 2023**
 
 | Time (CEST) | Type | Topic | Speaker |
