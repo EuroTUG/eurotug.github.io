@@ -83,7 +83,7 @@ The meeting program will encompass:
 | 12:40 | Lunch break | | |
 | 14:00 | Tutorial | Kokkos | Damien Lebrun-Grandie, ORNL |
 | 16:00 | Break | | |
-| 16:30 | User-contributed talk | N.A. | Nasser Alkmin, U Innsbruck |
+| 16:30 | User-contributed talk | Adapting an Epetra-based application to use MueLu block transfer operators: experiences from a beginner | Nasser Alkmin, U Innsbruck |
 | 17:00 | Developer talk | N.A. | Chris M. Siefert, SNL |
 | 17:30 | End | | |
 | 19:00 | Dinner | | |
