@@ -109,7 +109,7 @@ Verwersdijk 128 <br>
 | 14:00 | Roundtable discussion | | all participants |
 | 15:00 | End | | |
 
-Optional add-on: Kokkos experts will be available until 17:30 to answer individual questions.
+**Optional add-on**: Kokkos experts will be available until 17:30 to answer individual questions.
 
 ## Venue & Accommodation
 
