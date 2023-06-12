@@ -105,7 +105,7 @@ Verwersdijk 128 <br>
 | 11:00 | User-contributed talk | How to use TrilinosWrappers in deal.II to parallelize your code | Jan Philipp Thiele, U Hannover |
 | 11:30 | User-contributed talk | Development of physics-based multi-level block preconditioners in Trilinos/MueLu | Max Firmbach, UniBw M |
 | 12:00 | Lunch break | | |
-| 13:00 | Keynote | N.A. | Kees Vuik, TU Delft |
+| 13:00 | Keynote | High Performance Computing at the TU Delft | Kees Vuik, TU Delft |
 | 14:00 | Roundtable discussion | | all participants |
 | 15:00 | End | | |
 
