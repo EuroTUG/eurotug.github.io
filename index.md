@@ -57,21 +57,23 @@ The meeting program will encompass:
 
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
+| 10:00 |  | Registration |
 | 10:30 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
-| 11:00 | How to install Trilinos? | Matthias Mayr, UniBw M |
+| 11:00 | How to install Trilinos? | Alexander Heinlein / Matthias Mayr |
 | 11:30 | Hands-on: configure, build and install Trilinos | all participants |
 | 12:30 | Break | |
-| 14:00 | Using Trilinos in application codes - Part I | Alexander Heinlein, TU Delft |
+| 14:00 | Using Trilinos in application codes - Part I | Alexander Heinlein / Matthias Mayr |
 | 14:30 | Hands-on: minimal example to include and use Trilinos - Part I | all participants |
 | 15:30 | Break | |
 | 16:00 | Using Trilinos in application codes - Part II | Alexander Heinlein / Matthias Mayr |
 | 16:30 | Hands-on: minimal example to include and use Trilinos - Part II | all participants |
-| 17:30 | Wrap-up | Alexander Heinlein |
+| 17:30 | Wrap-up | Alexander Heinlein / Matthias Mayr |
 
 **Thurdsay, 29. June 2023**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
+| 8:30 |  | Registration |  |
 | 09:00 | | Welcome & Opening | Alexander Heinlein / Matthias Mayr |
 | 09:10 | Developer talk | Linear solvers in Trilinos | Luc Berger-Vergiat, SNL |
 | 09:40 | User-contributed talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen, U Köln |
