@@ -115,12 +115,12 @@ Verwersdijk 128 <br>
 
 ## Venue & Accommodation
 
-The *European Trilinos User Group Meeting 2023* will take place at the [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/) of the [Delft University of Technology](http://www.tudelft.nl/en/):
+The *European Trilinos User Group Meeting 2023* will take place in **Committee Room 3** at the [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/) of the [Delft University of Technology](http://www.tudelft.nl/en/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TU Delft Aula Conference Centre (Building 20)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mekelweg 5
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2628 CC Delft
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Netherlands 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Netherlands
 
 More information will follow. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
 
