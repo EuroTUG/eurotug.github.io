@@ -75,18 +75,18 @@ The meeting program will encompass:
 | ----------- | ----------- | ----------- | ----------- |
 | 8:30 |  | Registration |  |
 | 09:00 | | Welcome & Opening | Alexander Heinlein / Matthias Mayr |
-| 09:10 | Developer talk | Linear solvers in Trilinos | Luc Berger-Vergiat, SNL |
+| 09:10 | Developer talk | [Linear solvers in Trilinos]({{site.url}/assets/2023_eurotug_slides/2023_berger_vergiat_luc.pdf) | Luc Berger-Vergiat, SNL |
 | 09:40 | User-contributed talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen, U Köln |
 | 10:10 | User-contributed talk | Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance | Jonas Schulze, MPI Magdeburg |
 | 10:40 | Break | | |
-| 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly | Nate Roberts, SNL |
-| 11:40 | User-contributed talk | Speeding up sparse iterative solvers in Trilinos using RACE | Christie Alappat, FAU Erlangen |
+| 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly ([Part 1]({{site.url}}/assets/2023_eurotug_slides/2023_roberts_nate_discretization.pdf), [Part 2]({{site.url}}/assets/2023_eurotug_slides/2023_roberts_nate_intrepid2.pdf) | Nate Roberts, SNL |
+| 11:40 | User-contributed talk | [Speeding up sparse iterative solvers in Trilinos using RACE]({{site.url}}/assets/2023_eurotug_slide/20203_alappat_christie.pdf) | Christie Alappat, FAU Erlangen |
 | 12:10 | User-contributed talk | Computing transition probabilities in stochastic ocean-climate models using Trilinos | Sven Baars, U Utrecht|
 | 12:40 | Lunch break | | |
 | 14:00 | User-contributed talk | Adapting an Epetra-based application to use MueLu block transfer operators: experiences from a beginner | Nasser Alkmin, U Innsbruck         |
-| 14:30 | Tutorial              | Kokkos                                                       | Damien Lebrun-Grandie, ORNL |
+| 14:30 | Tutorial              | [Kokkos]({{site.url}}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf)                                                       | Damien Lebrun-Grandie, ORNL |
 | 16:00 | Break                 |                                                              |                                    |
-| 16:30 | Tutorial              | Kokkos                                                       | Damien Lebrun-Grandie, ORNL        |
+| 16:30 | Tutorial              | [Kokkos]({{site.url}}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf)                                                       | Damien Lebrun-Grandie, ORNL        |
 | 17:30 | End | | |
 | 19:00 | Dinner | | |
 
@@ -102,7 +102,7 @@ Verwersdijk 128 <br>
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 09:00 | Tutorial | Kokkos | Damien Lebrun-Grandie, ORNL |
+| 09:00 | Tutorial | [Kokkos]({{site.url}}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf) | Damien Lebrun-Grandie, ORNL |
 | 10:30 | Break | | |
 | 11:00 | User-contributed talk | How to use TrilinosWrappers in deal.II to parallelize your code | Jan Philipp Thiele, U Hannover |
 | 11:30 | User-contributed talk | Development of physics-based multi-level block preconditioners in Trilinos/MueLu | Max Firmbach, UniBw M |
