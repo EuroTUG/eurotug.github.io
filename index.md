@@ -105,7 +105,7 @@ Verwersdijk 128 <br>
 | 09:00 | Tutorial | [Kokkos]({{ site.url }}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf) | Damien Lebrun-Grandie, ORNL |
 | 10:30 | Break | | |
 | 11:00 | User-contributed talk | How to use TrilinosWrappers in deal.II to parallelize your code | Jan Philipp Thiele, U Hannover |
-| 11:30 | User-contributed talk | Development of physics-based multi-level block preconditioners in Trilinos/MueLu | Max Firmbach, UniBw M |
+| 11:30 | User-contributed talk | [Development of physics-based multi-level block preconditioners in Trilinos/MueLu]({{ site.url }}/assets/2023_eurotug_slides/2023_firmbach_max.pdf) | Max Firmbach, UniBw M |
 | 12:00 | Lunch break | | |
 | 13:00 | Keynote | High Performance Computing at the TU Delft | Kees Vuik, TU Delft |
 | 14:00 | Roundtable discussion | | all participants |
