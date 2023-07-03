@@ -80,7 +80,7 @@ The meeting program will encompass:
 | 10:10 | User-contributed talk | Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance | Jonas Schulze, MPI Magdeburg |
 | 10:40 | Break | | |
 | 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly ([Part 1]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_discretization.pdf), [Part 2]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_intrepid2.pdf) | Nate Roberts, SNL |
-| 11:40 | User-contributed talk | [Speeding up sparse iterative solvers in Trilinos using RACE]({{ site.url }}/assets/2023_eurotug_slide/20203_alappat_christie.pdf) | Christie Alappat, FAU Erlangen |
+| 11:40 | User-contributed talk | [Speeding up sparse iterative solvers in Trilinos using RACE]({{ site.url }}/assets/2023_eurotug_slides/2023_alappat_christie.pdf) | Christie Alappat, FAU Erlangen |
 | 12:10 | User-contributed talk | Computing transition probabilities in stochastic ocean-climate models using Trilinos | Sven Baars, U Utrecht|
 | 12:40 | Lunch break | | |
 | 14:00 | User-contributed talk | Adapting an Epetra-based application to use MueLu block transfer operators: experiences from a beginner | Nasser Alkmin, U Innsbruck         |
