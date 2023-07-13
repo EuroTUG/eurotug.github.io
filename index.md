@@ -77,7 +77,7 @@ The meeting program will encompass:
 | 09:00 | | Welcome & Opening | Alexander Heinlein / Matthias Mayr |
 | 09:10 | Developer talk | [Linear solvers in Trilinos]({{ site.url }}/assets/2023_eurotug_slides/2023_berger_vergiat_luc.pdf) | Luc Berger-Vergiat, SNL |
 | 09:40 | User-contributed talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen, U Köln |
-| 10:10 | User-contributed talk | Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance | Jonas Schulze, MPI Magdeburg |
+| 10:10 | User-contributed talk | [Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance]({{ site.url }}/assets/2023_eurotug_slides/2023_schulze_jonas.pdf) | Jonas Schulze, MPI Magdeburg |
 | 10:40 | Break | | |
 | 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly ([Part 1]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_discretization.pdf), [Part 2]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_intrepid2.pdf) | Nate Roberts, SNL |
 | 11:40 | User-contributed talk | [Speeding up sparse iterative solvers in Trilinos using RACE]({{ site.url }}/assets/2023_eurotug_slides/2023_alappat_christie.pdf) | Christie Alappat, FAU Erlangen |
