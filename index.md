@@ -58,14 +58,14 @@ The meeting program will encompass:
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 10:00 |  | Registration |
-| 10:30 | Introduction to Trilinos | Alexander Heinlein / Matthias Mayr |
-| 11:00 | How to install Trilinos? | Alexander Heinlein / Matthias Mayr |
+| 10:30 | [Introduction to Trilinos]({{ site.url }}/assets/2023_eurotug_slides/eurotug_tutorial_opening.pdf) | Alexander Heinlein / Matthias Mayr |
+| 11:00 | [How to install Trilinos?]({{ site.url }}/assets/2023_eurotug_slides/eurotug_tutorial_part_1.pdf) | Alexander Heinlein / Matthias Mayr |
 | 11:30 | Hands-on: configure, build and install Trilinos | all participants |
 | 12:30 | Break | |
-| 14:00 | Using Trilinos in application codes - Part I | Alexander Heinlein / Matthias Mayr |
+| 14:00 | [Using Trilinos in application codes - Part I]({{ site.url }}/assets/2023_eurotug_slides/eurotug_tutorial_part_1.pdf) | Alexander Heinlein / Matthias Mayr |
 | 14:30 | Hands-on: minimal example to include and use Trilinos - Part I | all participants |
 | 15:30 | Break | |
-| 16:00 | Using Trilinos in application codes - Part II | Alexander Heinlein / Matthias Mayr |
+| 16:00 | [Using Trilinos in application codes - Part II]({{ site.url }}/assets/2023_eurotug_slides/eurotug_tutorial_part_1.pdf) | Alexander Heinlein / Matthias Mayr |
 | 16:30 | Hands-on: minimal example to include and use Trilinos - Part II | all participants |
 | 17:30 | Wrap-up | Alexander Heinlein / Matthias Mayr |
 
@@ -73,20 +73,20 @@ The meeting program will encompass:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 8:30 |  | Registration |  |
+| 8:30 |  | [Registration]({{ site.url }}/assets/2023_eurotug_slides/eurotug_opening.pdf) |  |
 | 09:00 | | Welcome & Opening | Alexander Heinlein / Matthias Mayr |
 | 09:10 | Developer talk | [Linear solvers in Trilinos]({{ site.url }}/assets/2023_eurotug_slides/2023_berger_vergiat_luc.pdf) | Luc Berger-Vergiat, SNL |
 | 09:40 | User-contributed talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen, U Köln |
 | 10:10 | User-contributed talk | [Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance]({{ site.url }}/assets/2023_eurotug_slides/2023_schulze_jonas.pdf) | Jonas Schulze, MPI Magdeburg |
 | 10:40 | Break | | |
-| 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly ([Part 1]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_discretization.pdf), [Part 2]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_intrepid2.pdf) | Nate Roberts, SNL |
+| 11:10 | Developer talk | Intrepid2 for Fast High-Order Assembly ([Part 1]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_discretization.pdf), [Part 2]({{ site.url }}/assets/2023_eurotug_slides/2023_roberts_nate_intrepid2.pdf)) | Nate Roberts, SNL |
 | 11:40 | User-contributed talk | [Speeding up sparse iterative solvers in Trilinos using RACE]({{ site.url }}/assets/2023_eurotug_slides/2023_alappat_christie.pdf) | Christie Alappat, FAU Erlangen |
 | 12:10 | User-contributed talk | Computing transition probabilities in stochastic ocean-climate models using Trilinos | Sven Baars, U Utrecht|
 | 12:40 | Lunch break | | |
 | 14:00 | User-contributed talk | Adapting an Epetra-based application to use MueLu block transfer operators: experiences from a beginner | Nasser Alkmin, U Innsbruck         |
-| 14:30 | Tutorial              | [Kokkos]({{ site.url }}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf)                                                       | Damien Lebrun-Grandie, ORNL |
+| 14:30 | Tutorial              | [Kokkos]({{ site.url }}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day1.pdf)                                                       | Damien Lebrun-Grandie, ORNL |
 | 16:00 | Break                 |                                                              |                                    |
-| 16:30 | Tutorial              | [Kokkos]({{ site.url }}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day2.pdf)                                                       | Damien Lebrun-Grandie, ORNL        |
+| 16:30 | Tutorial              | [Kokkos]({{ site.url }}/assets/2023_eurotug_slides/KokkosTutorial_EuroTUG_2023_Day1.pdf)                                                       | Damien Lebrun-Grandie, ORNL        |
 | 17:30 | End | | |
 | 19:00 | Dinner | | |
 
