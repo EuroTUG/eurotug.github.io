@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-![H1 and M1 building of the HSU/UniBwH](assets/img/hsu.jpg)
+
 <div class="container">
   <img class="cropped-image none-image" src="assets/img/hsu.jpg" alt="H1 and M1 building of the HSU/UniBwH"/>
   <div class="text-block delft">
