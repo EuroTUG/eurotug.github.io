@@ -81,7 +81,7 @@ For accommodation, we recommend the following hotels:
 | Hotel                          | Email                                                        | Website                                                | Address                              |
 | :----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------ |
 | *Select Hotel Tiefenthal* | [tiefenthal@select-hotels.com](mailto:tiefenthal@select-hotels.com) | [select-hotels.com](https://www.select-hotels.com/en/select-hotel-tiefenthal) | Wandsbeker Marktstraße 109, 22041 Hamburg       |
-| *the niu Keg | City-Hotel Hamburg-Ost*    | [info@the.niu.de](mailto:info@the.niu.de)            | [the.niu.de](https://the.niu.de/en/hotels/germany/hamburg/the-niu-keg)         | An der Alster 63, 20099 Hamburg         |
+| *the niu Keg \| City-Hotel Hamburg-Ost*    | [info@the.niu.de](mailto:info@the.niu.de)            | [the.niu.de](https://the.niu.de/en/hotels/germany/hamburg/the-niu-keg)         | An der Alster 63, 20099 Hamburg         |
 | *Barceló Hamburg*             | [hamburg@barcelo.com](mailto:hamburg@barcelo.com)      | [barcelo.com](https://www.barcelo.com/en-ie/barcelo-hamburg/)     | Ferdinandstrasse 15, 20095 Hamburg         |
 | *PIERDREI HOTEL*         | [info@pierdrei-hotel.de](mailto:info@pierdrei-hotel.de)        | [pierdrei-hotel.de](https://www.pierdrei-hotel.de/en/home)  | Am Sandtorkai 46, 20457 Hamburg  |
 | *Alster-Hof*             | [info@alster-hof.de](mailto:info@alster-hof.de) | [alster-hof.de](https://www.alster-hof.de/?lang=en)            | Esplanade 12, 20354 Hamburg |
