@@ -9,7 +9,7 @@ layout: home
 ---
 
 <div class="container">
-  <img class="cropped-image none-image" src="/assets/img/HSU-H1-M1.jpg" alt="H1 and M1 building HSU/UniBwH"/>
+  <img class="cropped-image none-image" src="/assets/img/hsu.jpg" alt="H1 and M1 building of the HSU/UniBwH"/>
   <div class="text-block delft">
     <h3>European Trilinos User Group Meeting 2024</h3>
     <p>HSU/UniBwH, June 24-26, 2024<span style="float:right"><a href="#" target="_blank">Link to registration coming soon</a></span></p>
