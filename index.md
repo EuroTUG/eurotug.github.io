@@ -44,8 +44,6 @@ A detailed schedule will be announced at a later stage.
 
 **Monday, 24. June 2024**
 
-> This day will focus on beginner level and will introduce new users to Trilinos.
-
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 10:00 |  | Registration |
