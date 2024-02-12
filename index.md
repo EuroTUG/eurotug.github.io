@@ -11,7 +11,7 @@ layout: home
 <div class="container">
   <img class="cropped-image none-image" src="assets/img/hsu.jpg" alt="H1 and M1 building of the HSU/UniBwH"/>
   <div class="text-block delft">
-    <h3>European Trilinos User Group Meeting 2024</h3>
+    <h3>European Trilinos User Group Meeting 2024<span style="float:right;font-size:0.5em">Photo: Medienzentrum HSU/UniBwH</span></h3>
     <p>HSU/UniBwH, June 24-26, 2024<span style="float:right"><a href="#" target="_blank">Link to registration coming soon</a></span></p>
   </div>
 </div>
