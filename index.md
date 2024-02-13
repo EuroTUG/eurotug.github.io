@@ -46,15 +46,15 @@ A detailed schedule will be announced at a later stage.
 
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 10:00 |  | Begin |
-| 17:00 |  | End |
+| 10:00 | Begin | |
+| 15:00 | End | |
 
 **Tuesday, 25. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 |  | Begin |
-| 17:00 |  | End |
+| 10:00 | Begin | |
+| 15:00 | End | |
 
 **Wednesday, 26. June 2024**
 
