@@ -12,7 +12,7 @@ layout: home
   <img class="cropped-image none-image" src="assets/img/hsu.jpg" alt="H1 and M1 building of the HSU/UniBwH"/>
   <div class="text-block delft">
     <h3>European Trilinos User Group Meeting 2024<span style="float:right;font-size:0.5em">Photo: Medienzentrum HSU/UniBwH</span></h3>
-    <p>HSU/UniBwH, June 24-26, 2024<span style="float:right"><a href="#" target="_blank">Link to registration coming soon</a></span></p>
+    <p>HSU/UniBwH, June 24-26, 2024<span style="float:right;visibility:hidden"><a href="#" target="_blank">Link to registration coming soon</a></span></p>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ The *European Trilinos User Group Meeting 2024* will take place on the campus of
 
 ## Registration
 
-In order to participate in the EuroTUG Meeting 2024, please **fill the <a href="#" target="_blank">registration form (link upcoming)</a> prior to May 15, 2024**. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG Meeting 2024, please **fill the registration form (link upcoming) prior to May 15, 2024**. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is *free of charge*.
 
@@ -46,14 +46,15 @@ A detailed schedule will be announced at a later stage.
 
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 10:00 |  | Registration |
+| 10:00 |  | Begin |
+| 17:00 |  | End |
 
 **Tuesday, 25. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 |  | Registration |
-
+| 10:00 |  | Begin |
+| 17:00 |  | End |
 
 **Wednesday, 26. June 2024**
 
