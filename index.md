@@ -16,7 +16,7 @@ layout: home
   </div>
 </div>
 
-## About the meeting
+## About the Meeting
 
 The _European Trilinos User Group (EuroTUG)_ meeting series offers a platform for Europe-based users and developers
 of the [Trilinos Project](https://trilinos.github.io) to
@@ -38,7 +38,7 @@ The registration is *free of charge*.
 
 If you have any questions or trouble with the registration, feel free to contact us via email at [eurotug@hsu-hh.de](mailto:eurotug@hsu-hh.de).
 
-## Scientific programme
+## Scientific Programme
 
 A detailed schedule will be announced at a later stage.
 
@@ -47,20 +47,21 @@ A detailed schedule will be announced at a later stage.
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 10:00 | Begin | |
-| 15:00 | End | |
+| 18:00 | End | |
 
 **Tuesday, 25. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 | Begin | |
-| 15:00 | End | |
+| 08:30 | Begin | |
+| 17:30 | End | |
+| TBA | Dinner | |
 
 **Wednesday, 26. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 | Begin | | |
+| 09:00 | Begin | | |
 | 15:00 | End | | |
 
 ## Venue & Accommodation
@@ -86,7 +87,7 @@ For accommodation, we recommend the following hotels:
 | *Alster-Hof*             | [info@alster-hof.de](mailto:info@alster-hof.de) | [alster-hof.de](https://www.alster-hof.de/?lang=en)            | Esplanade 12, 20354 Hamburg |
 
 
-## Organizing committee
+## Organizing Committee
 
 The *European Trilinos User Group Meeting 2024* will be jointly organized by:
 
