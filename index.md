@@ -18,7 +18,7 @@ layout: home
 
 ## About the Meeting
 
-The _European Trilinos User Group (EuroTUG)_ meeting series offers a platform for Europe-based users and developers
+The _European Trilinos & KOKKOS User Group (EuroTUG)_ meeting series offers a platform for Europe-based users and developers
 of the [Trilinos Project](https://trilinos.github.io) to
 
 - learn about recent developments in Trilinos,
@@ -28,7 +28,7 @@ of the [Trilinos Project](https://trilinos.github.io) to
 
 While the annual Trilinos User Group meeting hosted by Sandia National Laboratories (SNL) in Albuquerque, NM, serves as the main community event for Trilinos users, the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers who are interested in the Trilinos project.
 
-The *European Trilinos User Group Meeting 2024* will take place on the campus of the [Helmut Schmidt University Hamburg (HSU/UniBwH)](http://www.hsu-hh.de/en/). 
+The *European Trilinos & KOKKOS User Group Meeting 2024* will take place on the campus of the [Helmut Schmidt University Hamburg (HSU/UniBwH)](http://www.hsu-hh.de/en/). 
 
 ## Registration
 
@@ -66,7 +66,7 @@ A detailed schedule will be announced at a later stage.
 
 ## Venue & Accommodation
 
-The *European Trilinos User Group Meeting 2024* will take place at the campus of the [Helmut Schmidt University Hamburg (HSU/UniBwH)](http://www.hsu-hh.de/en/):
+The *European Trilinos & KOKKOS User Group Meeting 2024* will take place at the campus of the [Helmut Schmidt University Hamburg (HSU/UniBwH)](http://www.hsu-hh.de/en/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helmut-Schmidt-Universität <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universität der Bundeswehr Hamburg <br>
@@ -89,7 +89,7 @@ For accommodation, we recommend the following hotels:
 
 ## Organizing Committee
 
-The *European Trilinos User Group Meeting 2024* will be jointly organized by:
+The *European Trilinos & KOKKOS User Group Meeting 2024* will be jointly organized by:
 
 - [Dr. Philipp Neumann](https://www.hsu-hh.de/hpc/philipp-neumann/) (HSU/UniBwH)
 - [Dr. Matthias Mayr](https://mayrmt.github.io) (University of the Bundeswehr Munich)
