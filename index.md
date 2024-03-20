@@ -28,6 +28,8 @@ of the [Trilinos Project](https://trilinos.github.io) to
 
 While the annual Trilinos User Group meeting hosted by Sandia National Laboratories (SNL) in Albuquerque, NM, serves as the main community event for Trilinos users, the EuroTUG facilitates easy access to the Trilinos community and reduced travel burdens for Europe-based researchers and application engineers who are interested in the Trilinos project.
 
+For the first time, the workshop also strives to bring together KOKKOS users and developers in the same spirit. This will not only foster efforts of the European KOKKOS community with regard to scientific computing on heterogeneous hardware, but it will also leverage additional synergies between Trilinos and KOKKOS developments.
+
 The *European Trilinos & KOKKOS User Group Meeting 2024* will take place on the campus of the [Helmut Schmidt University Hamburg (HSU/UniBwH)](http://www.hsu-hh.de/en/). 
 
 ## Registration
