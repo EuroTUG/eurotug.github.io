@@ -99,6 +99,6 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will be jointly organiz
 
 ## Acknowledgement
 
-The *European Trilinos & KOKKOS User Group Meeting 2024* is supported by the project hpc.bw, funded by dtec.bw — Digitalization and Technology Research Center of the Bundeswehr. dtec.bw is funded by the European Union – NextGenerationEU.
+The *European Trilinos & Kokkos User Group Meeting 2024* is supported by the project hpc.bw, funded by dtec.bw — Digitalization and Technology Research Center of the Bundeswehr. dtec.bw is funded by the European Union – NextGenerationEU.
 
 <img class="none-image" src="assets/img/dtec.bw_EU-Foederhinweis_RGB_vertikal-1024x241.png" alt="dtec.bw is funded by the European Union – NextGenerationEU."/>
