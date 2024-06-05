@@ -34,11 +34,7 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will take place on the 
 
 ## Registration
 
-In order to participate in the EuroTUG Meeting 2024, please **fill the registration form prior to May 28, 2024**. Registration is required for speakers as well as attendees without a contribution.
-
-The registration is *free of charge*.
-
-**Registration is closed.**
+**The registration is closed.**
 
 ## Scientific Programme
 
