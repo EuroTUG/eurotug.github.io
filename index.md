@@ -12,7 +12,7 @@ layout: home
   <img class="cropped-image none-image" src="assets/img/hsu.jpg" alt="H1 and M1 building of the HSU/UniBwH"/>
   <div class="text-block delft">
     <h3>European Trilinos & Kokkos User Group (EuroTUG)<span style="float:right;font-size:0.5em">Photo: Medienzentrum HSU/UniBwH</span></h3>
-    <p>HSU/UniBwH, June 24-26, 2024<span style="float:right;"><a href="https://eurotug.hpc.hsu-hh.de/?r=eurotug24" target="_blank">Link to registration</a></span></p>
+    <p>HSU/UniBwH, June 24-26, 2024</p>
   </div>
 </div>
 
@@ -34,13 +34,11 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will take place on the 
 
 ## Registration
 
-In order to participate in the EuroTUG Meeting 2024, please **fill the <a href="https://eurotug.hpc.hsu-hh.de/?r=eurotug24" target="_blank">registration form</a> prior to May 28, 2024**. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the EuroTUG Meeting 2024, please **fill the registration form prior to May 28, 2024**. Registration is required for speakers as well as attendees without a contribution.
 
 The registration is *free of charge*.
 
-**FINAL HARD DEADLINE:** May 28, 2024
-
-If you have any questions or trouble with the registration, feel free to contact us via email at [eurotug@hsu-hh.de](mailto:eurotug@hsu-hh.de).
+**Registration is closed.**
 
 ## Scientific Programme
 
