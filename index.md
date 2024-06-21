@@ -38,7 +38,11 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will take place on the 
 
 ## Scientific Programme
 
-A detailed schedule will be announced at a later stage.
+The meeting program will encompass:
+- Introductory tutorials on [Trilinos](https://trilinos.github.io/) and [Kokkos](https://kokkos.org/)
+- Talks by active Trilinos developers on recent developments and trends
+- Presentations by active Trilinos users to showcase various application scenarios of Trilinos
+- Group discussions on relevant topics
 
 **Monday, 24. June 2024**
 
