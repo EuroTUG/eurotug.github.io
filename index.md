@@ -38,28 +38,61 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will take place on the 
 
 ## Scientific Programme
 
-A detailed schedule will be announced at a later stage.
+The meeting program will encompass:
+- Introductory tutorials on [Trilinos](https://trilinos.github.io/) and [Kokkos](https://kokkos.org/)
+- Talks by active Trilinos developers on recent developments and trends
+- Presentations by active Trilinos users to showcase various application scenarios of Trilinos
+- Group discussions on relevant topics
 
 **Monday, 24. June 2024**
 
-| Time (CEST) | Topic | Speaker |
-| ----------- | ----------- | ----------- |
-| 10:00 | Begin | |
-| 18:00 | End | |
+| Time (CEST) | Type | Topic | Speaker |
+| ----------- | ----------- | ----------- | ----------- |
+| 10:00 | | Registration & Welcome |  |
+| 10:30 | Tutorial | Kokkos Tutorial, Part I |  |
+| 12:30 | Break | Lunch Break | |
+| 13:00 | Tutorial | Kokkos Tutorial, Part II |  |
+| 14:30 | Break | Coffee Break | |
+| 15:00 | Contributed Talk | Adaptive GDSW (AGDSW): A Coarse Space for the Overlapping Schwarz Domain Decomposition Method and Highly Heterogeneous Positive Semidefinite Problems in Trilinos | Jascha Knepper (University Cologne, Cologne) |
+| 15:30 | Contributed Talk | The Research Software Engineer (RSE): Who is that? And what skills do they have to help you? | Jan Philipp Thiele (Weierstraß-Institut, Berlin) |
+| 16:00 | Online Talk | Kokkos | Sandia |
+| 17:00 | End | | |
 
 **Tuesday, 25. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 08:30 | Begin | |
-| 17:30 | End | |
-| TBA | Dinner | |
+| 10:00 |  | Introduction to Trilinos | |
+| 10:30 |  | How to install Trilinos | |
+| 11:00 | Break | Coffee Break | |
+| 11:30 |  | Using Trilinos Application Codes, Part I | |
+| 12:30 | Break | Lunch Break (incl. Group Picture) | |
+| 14:00 |  | Using Trilinos Application Codes, Part II | |
+| 14:30 | Contributed Talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen (University of Cologne, Cologne) |
+| 15:00 | Contributed Talk | HPC computational modeling of multicellular systems | Daniel Santos-Oliván (EMBL, Barcelona) |
+| 15:30 | Break | Coffee Break | |
+| 16:00 | Hands-on | Hackathon | all participants |
+| 18:00 | End | | |
+| 19:30 | Dinner | | |
+
+The dinner will take place at:
+
+Alsterlagune Hamburg<br>
+Ballindamm 14b<br>
+20095 Hamburg<br>
+[https://alsterlagune.de](https://alsterlagune.de)
 
 **Wednesday, 26. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 09:00 | Begin | | |
+| 09:00 | Keynote | High Performance Computing @Helmut Schmidt University | Philipp Neumann (DESY, Hamburg) & Piet Jarmatz (Helmut Schmidt University Hamburg, Hamburg) |
+| 10:00 | Visit | Container-based High Performance Computing Center | |
+| 10:30 | Break | Coffee Break | |
+| 11:00 | Contributed Talk | Transitioning the deal.II Trilinos Interface: From Epetra to Tpetra | Sebastian Kinnewig (Leibniz-University Hannover, Hannover) |
+| 11:30 | Contributed Talk | Block preconditioning for fluid-structure interaction in Trilinos: Teko vs MueLu | Max Firmbach (University of Armed Forces Munich, Munich) |
+| 12:00 | Break | Lunch Break | |
+| 13:00 | | Closing Day 3 | |
 | 15:00 | End | | |
 
 ## Venue & Accommodation
