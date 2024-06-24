@@ -48,7 +48,7 @@ The meeting program will encompass:
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 | | Registration & Welcome |  |
+| 10:00 | | Registration & Welcome in Building H1, Room 405/406 |  |
 | 10:30 | Tutorial | Kokkos Tutorial, Part I |  |
 | 12:30 | Break | Lunch Break | |
 | 13:00 | Tutorial | Kokkos Tutorial, Part II |  |
@@ -92,8 +92,7 @@ Ballindamm 14b<br>
 | 11:00 | Contributed Talk | Transitioning the deal.II Trilinos Interface: From Epetra to Tpetra | Sebastian Kinnewig (Leibniz-University Hannover, Hannover) |
 | 11:30 | Contributed Talk | Block preconditioning for fluid-structure interaction in Trilinos: Teko vs MueLu | Max Firmbach (University of Armed Forces Munich, Munich) |
 | 12:00 | Break | Lunch Break | |
-| 13:00 | | Closing Day 3 | |
-| 15:00 | End | | |
+| 13:00 | End | | |
 
 ## Venue & Accommodation
 
@@ -101,6 +100,7 @@ The *European Trilinos & Kokkos User Group Meeting 2024* will take place at the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helmut-Schmidt-Universität <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universität der Bundeswehr Hamburg <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building H1, Room 405/406<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holstenhofweg 85 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22043 Hamburg <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Germany <br>
