@@ -66,7 +66,7 @@ The meeting program will encompass:
 | 11:00 | Break | Coffee Break | |
 | 11:30 |  | [Introduction to Trilinos, Part II]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_intro_trilinos.pdf) | Alexander Heinlein |
 | 12:30 | Break | Lunch Break (incl. Group Picture) | |
-| 14:00 |  | [Recent Developments & Future Trends in Trilinos]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_recent_future_developments.pdf | Alexander Heinlein |
+| 14:00 |  | [Recent Developments & Future Trends in Trilinos]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_recent_future_developments.pdf) | Alexander Heinlein |
 | 14:30 | Contributed Talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen (University of Cologne, Cologne) |
 | 15:00 | Contributed Talk | HPC computational modeling of multicellular systems | Daniel Santos-Oliván (EMBL, Barcelona) |
 | 15:30 | Break | Coffee Break | |
