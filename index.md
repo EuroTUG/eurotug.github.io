@@ -49,25 +49,24 @@ The meeting program will encompass:
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
 | 10:00 | | Registration & Welcome in Building H1, Room 405/406 |  |
-| 10:30 | Tutorial | Kokkos Tutorial, Part I |  |
+| 10:30 | Tutorial | [Kokkos Tutorial, Part I]({{ site.url }}/assets/2024_eurotug_slides/Bludau_KokkosTutorial_Short.pdf) | Jakob Bludau |
 | 12:30 | Break | Lunch Break | |
-| 13:00 | Tutorial | Kokkos Tutorial, Part II |  |
+| 13:00 | Tutorial | [Kokkos Tutorial, Part II]({{ site.url }}/assets/2024_eurotug_slides/Bludau_KokkosTutorial_Short.pdf) | Jakob Bludau |
 | 14:30 | Break | Coffee Break | |
-| 15:00 | Contributed Talk | Adaptive GDSW (AGDSW): A Coarse Space for the Overlapping Schwarz Domain Decomposition Method and Highly Heterogeneous Positive Semidefinite Problems in Trilinos | Jascha Knepper (University Cologne, Cologne) |
-| 15:30 | Contributed Talk | The Research Software Engineer (RSE): Who is that? And what skills do they have to help you? | Jan Philipp Thiele (Weierstraß-Institut, Berlin) |
-| 16:00 | Online Talk | Kokkos | Sandia |
+| 15:00 | Contributed Talk | [Adaptive GDSW (AGDSW): A Coarse Space for the Overlapping Schwarz Domain Decomposition Method and Highly Heterogeneous Positive Semidefinite Problems in Trilinos]({{ site.url }}/assets/2024_eurotug_slides/Knepper_2024.06.24_EuroTUG_AGDSW.pdf) | Jascha Knepper (University Cologne, Cologne) |
+| 15:30 | Contributed Talk | [The Research Software Engineer (RSE): Who is that? And what skills do they have to help you?]({{ site.url }}/assets/2024_eurotug_slides/Thiele_EuroTUG_RSE.pdf) | Jan Philipp Thiele (Weierstraß-Institut, Berlin) |
+| 16:00 | Online Talk | [Kokkos]({{ site.url }}/assets/2024_eurotug_slides/Siefert-etal_2024_EuroTUG_Epetra_to_Tpetra.pdf) | Chris Siefert |
 | 17:00 | End | | |
 
 **Tuesday, 25. June 2024**
 
 | Time (CEST) | Type | Topic | Speaker |
 | ----------- | ----------- | ----------- | ----------- |
-| 10:00 |  | Introduction to Trilinos | |
-| 10:30 |  | How to install Trilinos | |
+| 10:00 |  | [Introduction to Trilinos, Part I]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_intro_trilinos.pdf) | Alexander Heinlein |
 | 11:00 | Break | Coffee Break | |
-| 11:30 |  | Using Trilinos Application Codes, Part I | |
+| 11:30 |  | [Introduction to Trilinos, Part II]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_intro_trilinos.pdf) | Alexander Heinlein |
 | 12:30 | Break | Lunch Break (incl. Group Picture) | |
-| 14:00 |  | Using Trilinos Application Codes, Part II | |
+| 14:00 |  | [Recent Developments & Future Trends in Trilinos]({{ site.url }}/assets/2024_eurotug_slides/Heinlein_recent_future_developments.pdf) | Alexander Heinlein |
 | 14:30 | Contributed Talk | Parallel Scalable Domain Decomposition Methods in Pharmaco-Mechanical Fluid-Structure Interaction | Lea Saßmannshausen (University of Cologne, Cologne) |
 | 15:00 | Contributed Talk | HPC computational modeling of multicellular systems | Daniel Santos-Oliván (EMBL, Barcelona) |
 | 15:30 | Break | Coffee Break | |
